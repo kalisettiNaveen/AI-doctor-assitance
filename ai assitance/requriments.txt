@@ -1,0 +1,8 @@
+flask
+open cv
+tensorflow
+pandas
+matplotlib
+numpy
+zipfile
+tensorflow
